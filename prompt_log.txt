@@ -1,0 +1,19 @@
+used gemini pro
+
+key propmts:
+
+"why dont we make a restaurants in pittsburgh database thing using sql? please give me the different variables and their data types we should use"
+
+"this looks good! lets write the python code to set up the sqlite database and create the table"
+
+"ok i opened the output db file in db browser for sqlite. how can i verify it is correct according to the interface i gave you?"
+
+"let's write the function to insert a new restaurant. i need to make sure we use parameterized queries so there's no sql injection."
+
+"yeah lets do read. i need a menu where i can see all restaurants, search by neighborhood, or sort them by highest rating."
+
+"users shouldnt necessarily know the IDs in order to input into update restaurant. we need a way for users to find the ID of their restaurant by using the other database features."
+
+"yeha let's rewrite delete restaurant to have this idea. also make sure it asks 'are you sure?' before actually deleting it from the db."
+
+"ok everything works. how do i tie all these functions together into a main menu while loop so the app stays open until i hit quit?"
